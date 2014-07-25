@@ -43,7 +43,7 @@ Atlantis
 Endeavour
   Reired in May 2011, displayed at California Science Center in Los Angeles, California.
 
-More details in `Space Shutle Orbiter`_ wiki page.
+More details in `Space Shuttle Orbiter`_ wiki page.
 
 .. _spaceflight: http://en.wikipedia.org/wiki/Spaceflight
 .. _Space Shuttle: http://en.wikipedia.org/wiki/Space_Shuttle
